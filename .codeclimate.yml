@@ -1,13 +1,7 @@
 engines:
   rubocop:
     enabled: true
-  eslint:
-    enabled: true
-  bundler-audit:
-    enabled: true
-  csslint:
-    enabled: true
-  fixme:
+  brakeman:
     enabled: true
 ratings:
   paths:
